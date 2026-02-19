@@ -1,1 +1,0 @@
-# configurador3d
